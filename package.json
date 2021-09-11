@@ -1,0 +1,24 @@
+{
+  "name": "koa-compose-study",
+  "description": "compose Koa middleware study",
+  "repository": "huangxiaodong/compose-study",
+  "version": "4.2.0",
+  "keywords": [],
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "codecov": "^3.0.0",
+    "jest": "^27.0.6",
+    "standard": "^16.0.3"
+  },
+  "scripts": {
+    "eslint": "standard --fix .",
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "license": "MIT"
+}
